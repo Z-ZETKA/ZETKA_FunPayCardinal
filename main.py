@@ -1,8 +1,5 @@
 import time
 from pip._internal.cli.main import main
-import keep_alive
-
-keep_alive.keep_alive()
 
 # todo убрать когда-то
 while True:
